@@ -1,6 +1,6 @@
 --lab 3
 --query and modify data with sql
---Q2.1
+--2.1
 insert into student(s_email,s_name,major)
 values('s1@jmu.edu','s1','IA'),
   ('s2@jmu.edu','s2','IA'),
